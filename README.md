@@ -57,7 +57,24 @@ Here are screenshots of the gameplay!!!
 ![Screenshot 2023-11-22 at 11 24 04 PM](https://github.com/Sesen8/Game-Sesen8/assets/96497659/bbb9980a-a1fb-49ff-b7e9-5dd47cf51ebb)
 
 
+Creator Notes
+  - Growing up I really enjoyed testing myself with geography flashcards, which made
+    perfect sense for me to implement this game for this project.
+  - Using rust allowed me to simply yet effectivly create this project
+    given my expirence with using it in the Rust project I did not
+    long ago
+  - Given the timing of this assignment with it being at the end of finals
+    I belive I created a good base for this game, but in the near future I
+    plan to implemnet more complex features and grow this game to be
+    not only a trivia but a learning expirence
 
+Future Plans
+  - implement a time limit on the answering time
+  - implemnt users that get saved so players can return
+  - going off the users, also have a leaderboard
+  - and hopefully more difficulties!!
+
+Stay tuned!!!!
 
 
 
