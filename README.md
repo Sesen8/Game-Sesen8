@@ -49,8 +49,12 @@ Game Play!
 5. Become a Geogrpahy Champion!!!!
 
 
+Here are screenshots of the gameplay!!!
+
+<img width="561" alt="Screenshot 2023-11-22 at 7 01 50 PM" src="https://github.com/Sesen8/Game-Sesen8/assets/96497659/925a8207-5166-4715-8ef9-f024d5144fde">
 
 
+![Screenshot 2023-11-22 at 11 24 04 PM](https://github.com/Sesen8/Game-Sesen8/assets/96497659/bbb9980a-a1fb-49ff-b7e9-5dd47cf51ebb)
 
 
 
