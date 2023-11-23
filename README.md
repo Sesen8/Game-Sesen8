@@ -11,8 +11,9 @@ Do you know your countries??
 If not this is the game for you!!
 
 Difficulties:
-The game offers three difficulty levels—Easy, Medium, and Hard
+The game offers three difficulty levels, Easy, Medium, and Hard
 to cater to players with varying knowledge of world geography.
+
 You hear that, anyone can play!!
 
 Game Includes
