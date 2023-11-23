@@ -19,6 +19,7 @@ enum Difficulty {
     Hard,
 }
 
+//MATCHING INPUT TO COUNTRY ENUM
 impl Country {
     fn name(&self) -> &'static str {
         match *self {
@@ -234,6 +235,7 @@ fn main() {
     // GAME TITLE
     println!(" ");
     println!("Welcome Countries Trivia!");
+    println!("Made by Sesen Yonas");
     println!("This game has three difficulties: Easy, Medium and Hard!");
     println!("At any point in the game type...");
     println!("        'switch' to move between levels!");
@@ -242,7 +244,7 @@ fn main() {
 
 
 
-
+    // CONTINUES UNTIL 'EXIT'
     loop {
         
         println!(" ");
