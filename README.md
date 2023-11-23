@@ -30,13 +30,13 @@ Game Play!
 2. After choosing a difficulty, the program will promt questions
    based on that difficulty
 
-  Easy 
+  - Easy 
     - Asks users to enter the continnet where a country is located in 
     - Not bad right?
-  Medium
+  - Medium
     - Asks users to enter the capital of the given country
     - Getting a little hard isnt it?
-  Hard
+  - Hard
     - Asks users to enter the language spoken in that country
     - Woah, thats a tough one! 
 
