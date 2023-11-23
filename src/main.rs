@@ -234,7 +234,7 @@ fn main() {
 
     // GAME TITLE
     println!(" ");
-    println!("Welcome Countries Trivia!");
+    println!("Welcome to Countries Trivia!");
     println!("Made by Sesen Yonas");
     println!("This game has three difficulties: Easy, Medium and Hard!");
     println!("At any point in the game type...");
